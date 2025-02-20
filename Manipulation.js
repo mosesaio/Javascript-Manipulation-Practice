@@ -19,4 +19,3 @@ let sum = sales.reduce((sum, item) => sum + item, 0);
 console.log(sum);
 let departments = ['HR', 'Finance', 'Engineering', 'Marketing'];
 departments.forEach(department => {console.log(department)});
-console.log(departments);
